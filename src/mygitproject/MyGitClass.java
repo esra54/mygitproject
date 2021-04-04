@@ -6,8 +6,11 @@ public class MyGitClass {
 	System.out.println("My second commit");
 	System.out.println("My third commit");	//bunu remoteda yaptim.
 	System.out.println("My fouth commit");	//bunu remoteda yaptim
+
 	System.out.println("My takimarkadasi commit");	
 	System.out.println("10.satir bilgisayarim");
+	System.out.println("My takimarkadasi commit");	//takim arkadasim yazdi
+
 	}
 
 }
