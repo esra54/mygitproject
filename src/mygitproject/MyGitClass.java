@@ -10,7 +10,7 @@ public class MyGitClass {
 	System.out.println("My takimarkadasi commit");	
 	System.out.println("10.satir bilgisayarim");
 	System.out.println("My takimarkadasi commit");	//takim arkadasim yazdi
-
+        System.out.println("uzak sunucu");
 	}
 
 }
