@@ -15,6 +15,7 @@ public class MyGitClass {
 	System.out.println("uzak sunucum");//farkli satira yazdim
 
         System.out.println("uzak sunucu");
+        System.out.println("esra branchinde yazdigim kodlar,satir 18");
 
 	}
 
